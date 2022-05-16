@@ -2,7 +2,7 @@
 
 ## Problem statement: 
 
-After using an API and helper functions to gather data from subreddits, what is best possible classifier model to use to predict between two subreddits given a random submission post?
+What is best possible classifier model to use to predict between two subreddits given a random submission post?
 
 ## Data Chosen: 
 
@@ -88,3 +88,6 @@ The F1 score is a weighted harmonic mean between precision and recall which is s
 
 #### ROC Curve Interpretation: 
 The area under the ROC curve is a measurement of how much overlap exists between our distributions and is important evaluation metric for checking any classification model's performance. The closer our ROC AUC is to 1, the better our model is at distinguishing between classes. With this being said, an area under the curve of 0.97 means our model does astonishingly well at distinguishing between our two different subreddits. 
+
+## Presentation Liner Notes: 
+
